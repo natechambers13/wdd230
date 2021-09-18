@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+    line-height: 1.25;
+}
+
+header, nav, main, footer {
+    margin: 1.5rem auto;
+    max-width: 800px;
+}
+
+header, footer {
+    background-color: rgb(117, 95, 50);
+    color: #fff;
+    text-align: center;
+}
+
+footer {
+    padding: 10px;
+}
+
+header {
+    padding: .25rem;
+    text-align: center;
+    font-size: 24;
+}
+
+img {
+    max-width: 250px;
+    float: right;
+    margin: 10px;
+    border: 2px solid #000;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 100px;
+}
+
+
+
